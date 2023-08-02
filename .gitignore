@@ -106,4 +106,8 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+<<<<<<< HEAD
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,vuejs,git,composer
+=======
+# End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,vuejs,git,composer
+>>>>>>> 903e636fc78a45a1582e94a118b73032f84e067a
