@@ -9,11 +9,13 @@
 </template>
 
 <script>
+//importação de componentes
 import HelloWorld from './components/HelloWorld.vue'
 import TheHeader from './components/TheHeader';
 
 export default {
     name: 'App',
+  //declaração de componentes que serão utilizados
     components: {
         HelloWorld,
         TheHeader

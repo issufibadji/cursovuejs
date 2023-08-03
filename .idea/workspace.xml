@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eba40456-f8d3-4905-81f7-2595a421e5ad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/curso-gratuito-vue3-aula-4/src/components/TheFooter.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso-gratuito-vue3-aula-2/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso-gratuito-vue3-aula-2/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso-gratuito-vue3-aula-3/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/curso-gratuito-vue3-aula-3/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso-gratuito-vue3-aula-4/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/curso-gratuito-vue3-aula-4/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso-gratuito-vue3-aula-4/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/curso-gratuito-vue3-aula-4/src/components/TheHome.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso-gratuito-vue3-aula-4/src/components/TheHeader.vue" beforeDir="false" afterPath="$PROJECT_DIR$/curso-gratuito-vue3-aula-4/src/components/TheHeader.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2TRKBXl3aYqKbu7Er8Xrw0e4u1f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/conIBJ/Documents/Dev/cursovuejs/curso-gratuito-vue3-aula-4/src/components",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\conIBJ\Documents\Dev\cursovuejs\curso-gratuito-vue3-aula-4\src\components" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eba40456-f8d3-4905-81f7-2595a421e5ad" name="Changes" comment="" />
+      <created>1691000317097</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691000317097</updated>
+      <workItem from="1691000318436" duration="6000" />
+      <workItem from="1691000331759" duration="302000" />
+      <workItem from="1691003753639" duration="974000" />
+      <workItem from="1691006686759" duration="9000" />
+      <workItem from="1691010766710" duration="2503000" />
+      <workItem from="1691083288395" duration="1299000" />
+      <workItem from="1691092308845" duration="2992000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
