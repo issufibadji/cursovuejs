@@ -1,6 +1,6 @@
 <template>
     <div>
-
+<!--v-for==> serve para laço de repetição -->
 
         <div
             v-for="(obj, index) in todos"

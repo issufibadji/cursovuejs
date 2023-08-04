@@ -1,5 +1,6 @@
 <template>
     <div>
+    <!-- v-bind: ou : serve para vingular elementos com atributo/ e deixar atributo dinaminico -->
         <div
             v-for="(obj, index) in todos"
             v-bind:key="obj.id"

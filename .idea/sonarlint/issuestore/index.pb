@@ -7,9 +7,7 @@ V
 ,curso-gratuito-vue3-aula-4/public/index.html,a\f\afa34e9a0ce4216243222ab36c3bbcb39a9a4ab6
 g
 7curso-gratuito-vue3-aula-4/src/components/TheHeader.vue,3\c\3c65cced7a6907dff9f2b2d5a366d7d7d97cf144
-g
-7curso-gratuito-vue3-aula-4/src/components/TheFooter.vue,2\5\25bf959903737d8954ecb848629088be8f1302cd
-e
-5curso-gratuito-vue3-aula-4/src/components/TheHome.vue,e\c\ec8414fbe8d11927f829984e53dcfc941eabf1b8
-V
-&curso-gratuito-vue3-aula-4/src/App.vue,3\2\322fd0f61a3a65fd00692d0e5149393236633ff8
+A
+pratica/README.md,4\2\42f0a3cbdcd1a88c775532098c420b218fdcd2fc
+D
+pratica/package.json,b\e\be5a1c1461f6a836996674bcf6d918ba6e641648

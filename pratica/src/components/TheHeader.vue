@@ -1,5 +1,10 @@
 <template>
     <header class="header">
+      <img
+          id="logo_outer"
+          alt="Vue logo"
+          src="../assets/logo.png"
+      >
         <a href="#default" class="logo">Logo</a>
         <div class="header-right">
           <a class="active" href="#home">Home</a>
@@ -16,11 +21,23 @@
 </script>
 
 <style>
-* {box-sizing: border-box;}
-body {
-  margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
-}
+  * {box-sizing: border-box;}
+  body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  #logo_outer {
+    width: 40px;
+    height: 40px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+    float: left;
+  }
+
+    #logo_outer img {
+      display: none;
+    }
     .header {
       position: fixed;
       left: 0;
